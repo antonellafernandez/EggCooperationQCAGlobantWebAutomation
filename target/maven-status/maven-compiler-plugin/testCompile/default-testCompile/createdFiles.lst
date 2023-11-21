@@ -1,0 +1,6 @@
+utils\baseTest\BaseTest.class
+pages\HomePage.class
+tests\WikipediaTests.class
+utils\MyDriver.class
+pages\ResultPage.class
+utils\basePage\BasePage.class
